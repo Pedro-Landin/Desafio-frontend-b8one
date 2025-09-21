@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Tênis esportivo corrida",
+    "description": "Tênis leve e confortável, ideal para corrida e caminhada. Solado em EVA para maior amortecimento.",
+    "photo": "/assets/tenis/tenisAdidas01.jpeg",
+    "price": 349.9,
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": "Esportivos"
+    }
+  },
+  {
+    "title": "Tênis casual branco",
+    "description": "Tênis minimalista branco, perfeito para looks casuais e sociais.",
+    "photo": "/assets/tenis/tenisAdidas02.jpeg",
+    "price": 289.0,
+    "id": 2,
+    "category": {
+      "id": 2,
+      "label": "Casual"
+    }
+  },
+  {
+    "title": "Tênis de basquete",
+    "description": "Tênis de cano alto para basquete, com ótimo suporte de tornozelo.",
+    "photo": "/assets/tenis/tenisNike03.jpeg",
+    "price": 499.9,
+    "id": 3,
+    "category": {
+      "id": 1,
+      "label": "Esportivos"
+    }
+  },
+  {
+    "title": "Tênis de trilha",
+    "description": "Tênis resistente à água, com solado antiderrapante, perfeito para trilhas e terrenos acidentados.",
+    "photo": "/assets/tenis/tenisAdidas04.jpeg",
+    "price": 399.0,
+    "id": 4,
+    "category": {
+      "id": 3,
+      "label": "Outdoor"
+    }
+  },
+  {
+    "title": "Tênis retrô",
+    "description": "Tênis estilo retrô dos anos 80, confortável e estiloso.",
+    "photo": "/assets/tenis/tenisAdidas05.jpeg",
+    "price": 319.0,
+    "id": 5,
+    "category": {
+      "id": 2,
+      "label": "Casual"
+    }
+  },
+  {
+    "title": "Tênis training",
+    "description": "Tênis para treinos funcionais e academia, com ótima estabilidade.",
+    "photo": "/assets/tenis/tenisNew06.jpeg",
+    "price": 379.0,
+    "id": 6,
+    "category": {
+      "id": 2,
+      "label": "Casual"
+    }
+  },
+  {
+    "title": "Tênis vegano",
+    "description": "Tênis feito com materiais veganos e sustentáveis, sem couro animal.",
+    "photo": "/assets/tenis/tenisConverse07.jpeg",
+    "price": 269.0,
+    "id": 7,
+    "category": {
+      "id": 3,
+      "label": "Outdoor"
+    }
+  },
+  {
+    "title": "Tênis slip-on",
+    "description": "Tênis sem cadarço, fácil de calçar e extremamente confortável.",
+    "photo": "/assets/tenis/tenisConverse08.jpeg",
+    "price": 229.9,
+    "id": 8,
+    "category": {
+      "id": 2,
+      "label": "Casual"
+    }
+  },
+  {
+    "title": "Tênis para skate",
+    "description": "Tênis com solado vulcanizado e reforço nas laterais, ideal para skatistas.",
+    "photo": "/assets/tenis/tenisNew09.jpeg",
+    "price": 339.0,
+    "id": 9,
+    "category": {
+      "id": 3,
+      "label": "Outdoor"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+.categoriaFiltros {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.categoriaTitle {
+  color: #242536;
+  font-size: 3rem;
+  padding: 0 20px;
+  max-width: 1400px;
+  margin: 30px auto;
+}
